@@ -5,12 +5,134 @@
     <link>https://kevweng.github.io/post/</link>
       <atom:link href="https://kevweng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Sep 2018 16:24:10 -0700</lastBuildDate>
     <image>
       <url>https://kevweng.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://kevweng.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>The importance of setting up your work environment</title>
+      <link>https://kevweng.github.io/post/the-importance-of-setting-up-your-work-environment/</link>
+      <pubDate>Fri, 07 Sep 2018 16:24:10 -0700</pubDate>
+      <guid>https://kevweng.github.io/post/the-importance-of-setting-up-your-work-environment/</guid>
+      <description>&lt;p&gt;A lot of people begin their journeys in learning programming with asking what environment they will be coding in. To a lot of people—and hopefully you as well after you read this post—the digital workspace will have a newfound meaning.&lt;/p&gt;
+
+&lt;p&gt;I used to think that integrated development environments (IDEs) were the end all be all of professional software development tools. I looked at the very minute differences in debugging services that IDEs like CLion or PyCharm had in comparison to Eclipse or some other  IDE. This was due to the relatively high prices of getting the software. Eventually, I found out that students were able to license the software for free and I downloaded the few JetBrains IDEs that I wanted. They went unopened. In retrospect, I think that this was too easy, and I eventually abandoned the idea of using a heavy IDE that took a minute to boot.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;I want to make it clear that I don’t think IDEs are bad products, the point of this post is to say that the overload of tools that comes wrapped in a package was definitely discouraging to me, and I suggest learning to program from the shell.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many benefits to having this skill such as writing to a server directly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/kevinweng2000/blog/blob/master/static/The%20importance%20of%20setting%20up%20your%20work%20environment/Screen%20Shot%202018-09-07%20at%203.55.03%20PM.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since then, I have discovered the power of the terminal. For Windows users, the shell most are familiar with is the command prompt, but I use MacOS. I have since learned vim, and find that I am more impressed everyday with its brute power, yet minimal bloat over a traditional IDE. It’s lightweight and comes with the terminal. For my terminal however, I decided to switch to iTerm2, which is a shell emulator that runs instead of the built in MacOS Terminal. I have found that the customization process, in both vim and iTerm2 has been a motivation to continue programming. It’s not difficult to get lost in all of the different color schemes, key mappings, and other appearance tweaks that you can make to your development environment.&lt;/p&gt;
+
+&lt;p&gt;I encourage you take the time to make it yours. You want your work environment to be as comfortable and relatable as possible so that when you’re doing boring work, at least you’re doing it in a pretty environment. For me, I followed guides on how to configure my terminal to have clear arrows showing directory paths and git branches. There’s syntax highlighting to make things more readable, and timestamps with numbered lines of code as well as error markings. These cosmetic differences make me no better of a programmer than someone that just uses the base terminal. However, I think that the process in tweaking various config files is very useful in navigating the terminal. A lot of people want to get into programming to learn it as a skill and lack a project or task in mind that they want to accomplish. I think that &lt;strong&gt;customizing the digital environment is a great first task for learning,&lt;/strong&gt; and most importantly, employing the navigation commands. You learn so much from troubleshooting small issues that arise in the process. Google heavily, and you’ll find that in every problem you run into as a beginner, there are ten more people who’ve been there before you. People know that you need to learn through experience, but are missing that first task to guide them through the environment they’re working with and teach them the tools they will be using. As a bonus, you’ll look like a total badass when your terminal is all colorful. Make sure you use a dark theme; your eyes will thank you later.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to be Productive</title>
+      <link>https://kevweng.github.io/post/how-to-be-productive/</link>
+      <pubDate>Wed, 05 Sep 2018 18:51:06 -0700</pubDate>
+      <guid>https://kevweng.github.io/post/how-to-be-productive/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;1. Go to the library&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;2. Less consuming, more creating&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;3.  Rest and Repeat&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;go-to-the-library&#34;&gt;Go to the library&lt;/h2&gt;
+
+&lt;p&gt;My first suggestion if you feel like you aren’t getting anything done is to &lt;strong&gt;go to the library&lt;/strong&gt;. Actually just go. If working is too scary right now, just go and sit there. Because unlike in your home, your bed, TV, snacks, and other distractions aren’t readily available at the library. Your environment greatly affects your ability to clear your mind and get down to business. Just going to the library and &lt;em&gt;being&lt;/em&gt; there is conducive to productivity because everyone is there to work, learn, or read.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Office buildings were made so that people have a designated place to work, separate from their life at home.  The library is a million times better.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/kevinweng2000/blog/blob/master/static/How%20to%20be%20Productive/library.jpeg?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a disclaimer, going to the library will include forfeiting a portion of your social life. However, you’ll see people who are smarter and work harder than you. Be friends with them, especially if you’re a student. You’ll see people you never expected to see there. People will be getting tutored, others will be jotting down notes from textbooks.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Try to get a study room. You’ll need a library card, and if you don’t have one yet, get one! You’re paying taxes for it anyway.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even if you’re by yourself, most libraries will give you the study room for yourself and you can get &lt;em&gt;upwards of three to four hours alone&lt;/em&gt; or until a group takes precedence.&lt;/p&gt;
+
+&lt;p&gt;A change in environment does not always have to be a library if it’s not convenient. Cafe-hopping is also a popular way to regularly switch up your surroundings. I would still encourage those that don’t like the ambient noise to choose the library.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/kevinweng2000/blog/blob/master/static/How%20to%20be%20Productive/coffee.jpeg?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I support getting a drink every time you manage to force yourself to go outside of your home to work. I feel like giving yourself small rewards is an incentive to be productive more often, and gives you a non-distracting stimulus while you’re working. I suggest coffee, tea, water, or something else low in sugar. Limit these to one per day.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve gone to the library, then you can move onto the second tip.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;less-consuming-more-creating&#34;&gt;Less consuming, more creating&lt;/h2&gt;
+
+&lt;p&gt;At some point, you’ve googled, “how to be productive”, and have arrived at some clickbait BS, and before you know it, you have twenty tabs open, each detailing some app,  fad, or other nonsense that doesn’t work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Researching how to be productive is not productive&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although it is hypocritical that I’m writing about this, I know that the “buzzword” that is productivity will have those of you making this mistake flock to this post.&lt;/p&gt;
+
+&lt;p&gt;This is why I only have three tips in this post. Although it is great to be organized and have every hour of the day blocked and scheduled, its most common for people to try and use the planning process as a means of procrastination. I know this is true, because I used to do it. I used to nitpick the differences between Evernote and Bear, how to use notecards and spreadsheets most optimally, and in the end, no one cares.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/kevinweng2000/blog/blob/master/static/How%20to%20be%20Productive/notes.jpeg?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Absolutely no one cares&lt;/strong&gt; if you use Evernote, or Google Keep, or the Notes app. I ended up choosing Bear because I think the bear is cuter than the elephant on Evernote.&lt;/p&gt;
+
+&lt;p&gt;I used to watch videos at twice the speed because I was doing MOOCs and watching YouTube to learn things; I also read it somewhere as a productivity tip. In the end, speeding up the video was only giving me the facade of being productive when in fact, everything went in one ear and out the other. If you learn best from an inaudible slur of noise, then I concede. But as of now, I find that the entire video format is not an efficient nor optimal way for me to learn.&lt;/p&gt;
+
+&lt;p&gt;My previous anecdote points out a major issue in our understanding of productivity.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;We intake too much information. Our signal to noise ratio is so low that we essentially waste our time, but still think we’re being productive.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/kevinweng2000/blog/blob/master/static/How%20to%20be%20Productive/news.jpeg?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Personally, I stopped reading the news. Your mileage may vary depending on how relevant the news is to your work. I gained absolutely nothing relevant from hearing about Elon Musk’s flamethrowers or an oil spill on the other side of the planet. Reading the news seems like a mature thing to do, yet for a lot of people, it is just another time and attention sink.&lt;/p&gt;
+
+&lt;p&gt;It is important to limit the consumption of information and focus on creating new work. It doesn’t matter whether you’re writing books or software, taking photos, or filming a movie, you should be doing work you can call your own.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;rest-and-repeat&#34;&gt;Rest and Repeat&lt;/h2&gt;
+
+&lt;p&gt;My last tip is to rest make sure you get enough rest.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;There was recently an article about Elon Musk, stating that he was often found asleep under tables or chairs. This is not the best way to be productive. He has the ulterior motive of showing solidarity for the workers he is pushing to extreme limits.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Everyone needs sleep, and rest, and a refresher. It is impossible to be working optimally for five hours straight so don’t even try. Breaks are necessary.  The Pomodoro Method is a popular choice for balancing work and breaks.&lt;/p&gt;
+
+&lt;p&gt;The body and mind both need to be reset frequently to maintain a consistently high level of functionality. Your physical health precedes your mental health, so it’s important to exercise everyday and eat healthy. Both will affect your ability to work and not feel like death in the morning. For mental health, I suggest reflecting regularly and thinking about where you could’ve done better.&lt;/p&gt;
+
+&lt;p&gt;I say that these tips should be repeated because consistency is important. The hardest part of working is in the days after your initial high of motivation fades, and you question why you should get out of bed to go to the library. Habits are one of the most important things in being productive.  The brain always prefers a consistent stimulus over a sudden influx of information.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I hope this post will help in getting some of you to start working and have a new insight to what productivity means. Don’t be lenient, and hold yourself accountable.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
