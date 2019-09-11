@@ -28,11 +28,10 @@
   
     
   
-  <meta name="description" content="A lot of people begin their journeys in learning programming with asking what environment they will be coding in. To a lot of people—and hopefully you as well after you read this post—the digital workspace will have a newfound meaning.
-I used to think that integrated development environments (IDEs) were the end all be all of professional software development tools. I looked at the very minute differences in debugging services that IDEs like CLion or PyCharm had in comparison to Eclipse or some other IDE.">
+  <meta name="description" content="An event-driven backtester written in Python based on a guide by QuantStart. Used to test moving average strategies to find alpha.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://kevweng.github.io/post/the-importance-of-setting-up-your-work-environment/">
+  <link rel="alternate" hreflang="en-us" href="https://kevweng.github.io/project/backtester/backtester/">
 
   
 
@@ -95,7 +94,7 @@ I used to think that integrated development environments (IDEs) were the end all
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://kevweng.github.io/post/the-importance-of-setting-up-your-work-environment/">
+  <link rel="canonical" href="https://kevweng.github.io/project/backtester/backtester/">
 
   
   
@@ -108,16 +107,15 @@ I used to think that integrated development environments (IDEs) were the end all
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="kevin weng">
-  <meta property="og:url" content="https://kevweng.github.io/post/the-importance-of-setting-up-your-work-environment/">
-  <meta property="og:title" content="The importance of setting up your work environment | kevin weng">
-  <meta property="og:description" content="A lot of people begin their journeys in learning programming with asking what environment they will be coding in. To a lot of people—and hopefully you as well after you read this post—the digital workspace will have a newfound meaning.
-I used to think that integrated development environments (IDEs) were the end all be all of professional software development tools. I looked at the very minute differences in debugging services that IDEs like CLion or PyCharm had in comparison to Eclipse or some other IDE."><meta property="og:image" content="https://kevweng.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://kevweng.github.io/project/backtester/backtester/">
+  <meta property="og:title" content="Python Backtester | kevin weng">
+  <meta property="og:description" content="An event-driven backtester written in Python based on a guide by QuantStart. Used to test moving average strategies to find alpha."><meta property="og:image" content="https://kevweng.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://kevweng.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2018-09-07T16:24:10-07:00">
+      <meta property="article:published_time" content="2019-09-10T22:04:24-07:00">
     
-    <meta property="article:modified_time" content="2018-09-07T16:24:10-07:00">
+    <meta property="article:modified_time" content="2019-09-10T22:04:24-07:00">
   
 
   
@@ -129,7 +127,7 @@ I used to think that integrated development environments (IDEs) were the end all
 
 
 
-  <title>The importance of setting up your work environment | kevin weng</title>
+  <title>Python Backtester | kevin weng</title>
 
 </head>
 
@@ -342,7 +340,7 @@ I used to think that integrated development environments (IDEs) were the end all
 </nav>
 
 
-  <article class="article" itemscope itemtype="http://schema.org/Article">
+  <article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
 
@@ -363,7 +361,7 @@ I used to think that integrated development environments (IDEs) were the end all
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">The importance of setting up your work environment</h1>
+  <h1 itemprop="name">Python Backtester</h1>
 
   
 
@@ -372,8 +370,8 @@ I used to think that integrated development environments (IDEs) were the end all
 
 
 
-<meta content="2018-09-07 16:24:10 -0700 PDT" itemprop="datePublished">
-<meta content="2018-09-07 16:24:10 -0700 PDT" itemprop="dateModified">
+<meta content="2019-09-10 22:04:24 -0700 PDT" itemprop="datePublished">
+<meta content="2019-09-10 22:04:24 -0700 PDT" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -386,17 +384,12 @@ I used to think that integrated development environments (IDEs) were the end all
     
       
     
-    <time>Sep 7, 2018</time>
+    <time>Sep 10, 2019</time>
   </span>
   
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
   
 
   
@@ -436,33 +429,13 @@ I used to think that integrated development environments (IDEs) were the end all
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>A lot of people begin their journeys in learning programming with asking what environment they will be coding in. To a lot of people—and hopefully you as well after you read this post—the digital workspace will have a newfound meaning.</p>
-
-<p>I used to think that integrated development environments (IDEs) were the end all be all of professional software development tools. I looked at the very minute differences in debugging services that IDEs like CLion or PyCharm had in comparison to Eclipse or some other  IDE. This was due to the relatively high prices of getting the software. Eventually, I found out that students were able to license the software for free and I downloaded the few JetBrains IDEs that I wanted. They went unopened. In retrospect, I think that this was too easy, and I eventually abandoned the idea of using a heavy IDE that took a minute to boot.</p>
-
-<blockquote>
-<p><strong>I want to make it clear that I don’t think IDEs are bad products, the point of this post is to say that the overload of tools that comes wrapped in a package was definitely discouraging to me, and I suggest learning to program from the shell.</strong></p>
-</blockquote>
-
-<p>There are many benefits to having this skill such as writing to a server directly.</p>
-
-<p><img src="rhttps://github.com/kevweng/academic-kickstart/blob/master/static/The%20importance%20of%20setting%20up%20your%20work%20environment/Screen%20Shot%202018-09-07%20at%203.55.03%20PM.png?raw=true" alt="" /></p>
-
-<p>Since then, I have discovered the power of the terminal. For Windows users, the shell most are familiar with is the command prompt, but I use MacOS. I have since learned vim, and find that I am more impressed everyday with its brute power, yet minimal bloat over a traditional IDE. It’s lightweight and comes with the terminal. For my terminal however, I decided to switch to iTerm2, which is a shell emulator that runs instead of the built in MacOS Terminal. I have found that the customization process, in both vim and iTerm2 has been a motivation to continue programming. It’s not difficult to get lost in all of the different color schemes, key mappings, and other appearance tweaks that you can make to your development environment.</p>
-
-<p>I encourage you take the time to make it yours. You want your work environment to be as comfortable and relatable as possible so that when you’re doing boring work, at least you’re doing it in a pretty environment. For me, I followed guides on how to configure my terminal to have clear arrows showing directory paths and git branches. There’s syntax highlighting to make things more readable, and timestamps with numbered lines of code as well as error markings. These cosmetic differences make me no better of a programmer than someone that just uses the base terminal. However, I think that the process in tweaking various config files is very useful in navigating the terminal. A lot of people want to get into programming to learn it as a skill and lack a project or task in mind that they want to accomplish. I think that <strong>customizing the digital environment is a great first task for learning,</strong> and most importantly, employing the navigation commands. You learn so much from troubleshooting small issues that arise in the process. Google heavily, and you’ll find that in every problem you run into as a beginner, there are ten more people who’ve been there before you. People know that you need to learn through experience, but are missing that first task to guide them through the environment they’re working with and teach them the tools they will be using. As a bonus, you’ll look like a total badass when your terminal is all colorful. Make sure you use a dark theme; your eyes will thank you later.</p>
-
+      
     </div>
 
     
 
 
     
-
-
-
-    
-      
 
 
 
@@ -567,32 +540,38 @@ I used to think that integrated development environments (IDEs) were the end all
 
 
 
-      
-      
-    
-
-    
-    <div class="article-widget">
-      
-<div class="post-nav">
-  
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Previous</div>
-    <a href="/post/how-to-be-productive/" rel="prev">How to be Productive</a>
-  </div>
-  
-</div>
-
-    </div>
-    
 
     
 
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
 
   </div>
 </article>
+
+
+<div class="article-container article-widget">
+  
+<div class="post-nav">
+  
+  
+</div>
+
+</div>
+
 
       
 

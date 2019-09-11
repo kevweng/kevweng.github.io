@@ -5,12 +5,20 @@
     <link>https://kevweng.github.io/</link>
       <atom:link href="https://kevweng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>kevin weng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Weng 2019</copyright><lastBuildDate>Fri, 07 Sep 2018 16:24:10 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Weng 2019</copyright><lastBuildDate>Tue, 10 Sep 2019 22:04:24 -0700</lastBuildDate>
     <image>
       <url>https://kevweng.github.io/img/icon-192.png</url>
       <title>kevin weng</title>
       <link>https://kevweng.github.io/</link>
     </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://kevweng.github.io/project/</link>
+      <pubDate>Tue, 10 Sep 2019 22:04:24 -0700</pubDate>
+      <guid>https://kevweng.github.io/project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
