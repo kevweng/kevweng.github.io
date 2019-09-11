@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kevin Weng</title>
+    <title>kevin weng</title>
     <link>https://kevweng.github.io/</link>
       <atom:link href="https://kevweng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kevin Weng</description>
+    <description>kevin weng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Weng 2019</copyright><lastBuildDate>Fri, 07 Sep 2018 16:24:10 -0700</lastBuildDate>
     <image>
       <url>https://kevweng.github.io/img/icon-192.png</url>
-      <title>Kevin Weng</title>
+      <title>kevin weng</title>
       <link>https://kevweng.github.io/</link>
     </image>
     
