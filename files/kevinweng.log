@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  14 AUG 2020 00:54
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  22 AUG 2020 14:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -213,12 +213,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 46.
-
-Overfull \hbox (7.2385pt too wide) in paragraph at lines 64--71
-\TU/lmr/bx/n/12 Technologies: \TU/lmr/m/n/12 Pandas, Git, Vim, NumPy, Jupyter, 
-L[]T[]X, Linux/UNIX 
- []
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 
 Underfull \hbox (badness 10000) in paragraph at lines 112--115
